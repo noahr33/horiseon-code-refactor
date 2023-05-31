@@ -11,6 +11,7 @@ In this project I refactored the code in the following ways:
 
 ## DRYing up the code example
 
+By combining the selectors that share the same attributes, the code becomes less cluttered and easier to read.
 
 ### Before
 
@@ -21,3 +22,10 @@ In this project I refactored the code in the following ways:
 ![CSS code after](README-assets/Screenshot-2023-05-30%20at%2010.42.05%20PM.png)
 
 ****
+
+## Using the anchor element to quickly navigate to a specific page loaction.
+
+```
+<a href="#search-engine-optimization">Search Engine Optimization</a>
+```
+By adding the id of the element as the anchor destination, the user will be brought to that elements location when clicked.
