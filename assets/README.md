@@ -1,6 +1,13 @@
 # Horiseon Code Refactor
 
-In this project I refactored the code for 
+In this project I refactored the code in the following ways:
+
+* **Added a proper title description** 
+* **Added the missing anchor element destination**
+* **Added alt attributes for correct accesibility practices**
+* **Simplified CSS code by combining selectors that share the same attributes**
+
+***
 
 ## DRYing up the code example
 
@@ -13,3 +20,4 @@ In this project I refactored the code for
 
 ![CSS code after](README-assets/Screenshot-2023-05-30%20at%2010.42.05%20PM.png)
 
+****
