@@ -84,7 +84,6 @@ p {
     color: #ffffff;
 }
 
-
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
@@ -110,12 +109,10 @@ p {
     color: #ffffff;
 }
 
-
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
