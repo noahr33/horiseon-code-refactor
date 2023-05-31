@@ -4,7 +4,7 @@ In this project I refactored the code in the following ways:
 
 * **Added a proper title description** 
 * **Added the missing anchor element destination**
-* **Added alt attributes for correct accesibility practices**
+* **Added alt attributes for correct accessibility practices**
 * **Simplified CSS code by combining selectors that share the same attributes**
 
 ***
