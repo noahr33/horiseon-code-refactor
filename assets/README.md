@@ -1,4 +1,4 @@
-# Horiseon Code Refactor
+# Horiseon Code Refactor Description
 
 In this project I refactored the code in the following ways:
 
@@ -6,6 +6,18 @@ In this project I refactored the code in the following ways:
 * **Added the missing anchor element destination**
 * **Added alt attributes for correct accessibility practices**
 * **Simplified CSS code by combining selectors that share the same attributes**
+
+***
+
+# Link
+
+https://noahr33.github.io/horiseon-code-refactor/
+
+***
+
+# Screenshot
+
+<img src="README-assets/Screenshot 2023-06-05 at 5.56.18 PM.png" width="80%">
 
 ***
 
