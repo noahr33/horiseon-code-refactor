@@ -17,7 +17,7 @@ https://noahr33.github.io/horiseon-code-refactor/
 
 # Screenshot
 
-<img src="README-assets/Screenshot 2023-06-05 at 5.56.18 PM.png" width="80%">
+<img src="assets/README-assets/Screenshot 2023-06-05 at 5.56.18 PM.png" width="80%">
 
 ***
 
@@ -27,11 +27,11 @@ By combining the selectors that share the same attributes, the code becomes less
 
 ### Before
 
-<img src="README-assets/Screenshot-2023-05-30%20at%2010.36.43%20PM.png" width="40%">
+<img src="assets/README-assets/Screenshot-2023-05-30%20at%2010.36.43%20PM.png" width="40%">
 
 ### After
 
-![CSS code after](README-assets/Screenshot-2023-05-30%20at%2010.42.05%20PM.png)
+![CSS code after](assets/README-assets/Screenshot-2023-05-30%20at%2010.42.05%20PM.png)
 
 ****
 
