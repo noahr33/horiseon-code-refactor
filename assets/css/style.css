@@ -75,6 +75,8 @@ p {
     margin-left: 20px;
 }
 
+/* combined selectors that share exact attribute */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -103,6 +105,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* combined selectors that share exact attribute */
 
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
